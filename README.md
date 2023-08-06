@@ -1,12 +1,12 @@
 # Arctic Website 
 
-**Developed a website during the All-Star Code summer program by a team of four. This website was developed to raise awareness about the melting of the Arctic Ice Caps**
+**On a team of four, developed a website during the All-Star Code summer program. This website was created to raise awareness about the melting of the Arctic Ice Caps**
 
-**Tech Stack: JavaScript, p5.js, HTML, CSS/BootStrap**
+**Tech Stack: JavaScript, p5.js, HTML / CSS**
 
 ### Features ###
 - Built-in platformer game with ten levels 
-- Implemented an article section that fetches articles related to climate change from the NYT API, and displayed them on the website for users to read / access
+- Article section that fetches articles related to climate change from the NYT API, and displays them on the website for users to read / access
 
 ### Desktop preview: ###
 <img width="944" alt="climate1" src="https://user-images.githubusercontent.com/56855196/184565122-aaa2da7f-4c3a-4443-aa02-bb39d41f8fff.png">
